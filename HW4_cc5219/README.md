@@ -5,8 +5,8 @@ Oct.3
 Assignment 1
 
 Finish by myself. 
-Folk the repository of Vishwajeet Yashwantrao Shelar (vys217)
-
+Fork the repository of Vishwajeet Yashwantrao Shelar (vys217)
+See the file CitibikeReview_cc5219.md
 
 Assignment 2
 
