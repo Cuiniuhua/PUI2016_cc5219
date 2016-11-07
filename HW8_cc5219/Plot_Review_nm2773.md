@@ -1,5 +1,4 @@
 
-
 ![plot 1](/HW7_nm2773/ridership_june-september.png)
 ![plot 2](/HW7_nm2773/30daysofsummer.png)
 
