@@ -1,5 +1,5 @@
 
-![plot 1](/HW7_nm2773/ridership_june-september.png)
+![plot 1](ridership_june-september.png)
 ![plot 2](/HW7_nm2773/30daysofsummer.png)
 
 These two plots are made by Nurvirta Monarizqa (nm2773) with clear title, legends and explaination. 
