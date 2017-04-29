@@ -2,8 +2,8 @@ Assignment 9
 
 Nov17
 
-TIME SERIES ANALYSIS
-Goal: Find outliers, trends and periodicity in the MTA turnstile data
+__TIME SERIES ANALYSIS
+Goal: Find outliers, trends and periodicity in the MTA turnstile data__
 
 Finish the HW9
 
