@@ -1,6 +1,6 @@
 Assignment 1 
 
-I did this assignment by myself, mianly based on the skeleton notebook.
+Disribution plots/ Chi-square, Normal
 
 
 Assignment 2
