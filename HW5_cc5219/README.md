@@ -17,10 +17,9 @@ The first data of xNor(xNor[0]) is 130.
  
 ## Assignment 2
 
-Thanks for the help of Yao Wang(yw2275)  and Dongjie Fan(df1676).
 
-For the first five questions, I did them by myself and did the 4st question by fitting the data with a line by the way we did in class.
-And the last question I did it with the help of Yao and Dongjie.
+Analysis of Gender - Income Gap
+
 
 ## Assignment 3
 
