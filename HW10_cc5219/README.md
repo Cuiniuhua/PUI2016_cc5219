@@ -1,11 +1,14 @@
-HW 10
 
-Nov21
+Spatial Analysis
 
-Assignment 1
+Read NYC Census Block Data, plot bourough and population density maps
 
-Following the lab in class
-
-Assignment 2
-
-Divided the data in Assignment 1 into four seasons and finished the spatial analysis. Due to the time limitation did not finish the last part.
+Explore Citi Bike data
+  -Time series analysis 
+  -Monthly Citi Bike Ride counts 
+  -Exploratory Geospatial Analysis
+    Spatial Weights, Spatial Lag
+  -Global Spatial Autocorrelation
+    Moran Scatterplot, KDEplot of all of the simulated points
+  -Local Spatial Autocorrelation
+    LISA
